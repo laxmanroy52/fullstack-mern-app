@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+}
+
+#top-section {
+  background-color: #fff;
+  border-bottom: 2px solid red;
+  padding: 4px 8px;
+}
