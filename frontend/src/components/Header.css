@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+#top-section {
+  background-color: #3b5998;
+  color: #fff;
+  padding: 10px 12px;
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#nav-container {
+  display: flex;
+  align-items: center;
+}
+.nav-item {
+  margin-left: 6px;
+}
+.reg {
+  background-color: red;
+  padding: 4px 8px;
+  border-radius: 8px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+}
+a:focus {
+  color: green;
+  text-decoration: none;
+}
