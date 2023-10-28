@@ -1,5 +1,11 @@
 function Footer() {
-  return <h1>This is footer</h1>
+  return (
+    <>
+        <footer id="bottom-section">
+            <span id="footer-text">Laxman &copy; 2022-2023</span>
+        </footer>
+    </>
+    );
 }
 
 export default Footer;
